@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e2d55c26e7d69b6",
+            "id": "15aed2e66ffae08c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kafka/kafka.md",
+                "file": "spring/Security/KeyCloak.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "15aed2e66ffae08c",
+            "id": "f6a93bd1ee00b51d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "docker/docker-compose.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.2"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker-compose.md",
+                "file": "spring/Security/KeyCloak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker-compose.md",
+                "file": "spring/Security/KeyCloak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker-compose.md"
+                "file": "spring/Security/KeyCloak.md"
               }
             }
           }
@@ -159,38 +157,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a6d89383c64b259",
+  "active": "f6a93bd1ee00b51d",
   "lastOpenFiles": [
+    "spring/Security/Keycloak конфиги.md",
+    "spring/Security/SecurityFilterChain.md",
+    "spring/Controller/Create Controller.md",
+    "spring/Controller/Controller.md",
+    "spring/DTO/DTO.md",
+    "Мяу/Untitled.md",
+    "spring/Security/Spring security.md",
+    "spring/Security/KeyCloak.md",
+    "spring/Security/Oauth2.md",
+    "многопоточнойсть/Future and Callable.md",
+    "Мяу/ДЗ 9.md",
+    "многопоточнойсть",
+    "Pasted image 20240603172846.png",
+    "Pasted image 20240603172823.png",
+    "Мяу/Дз 8.md",
+    "Pasted image 20240602112500.png",
+    "Pasted image 20240602112447.png",
+    "Pasted image 20240601143305.png",
+    "Мяу/ПЗ_8_Панарин_ПМИ-22.md",
+    "Pasted image 20240601124358.png",
+    "Мяу/ДЗ дифуры 7.md",
+    "Мяу/Лабораторная работа N6.md",
+    "spring/Security/JWT.md",
+    "spring/DTO/Размер запроса маленький.md",
+    "Pasted image 20240528162816.png",
+    "Pasted image 20240527170807.png",
+    "Pasted image 20240527170753.png",
+    "ЦФТ/Запуск бека с локалки.md",
+    "Pasted image 20240523123628.png",
+    "spring/Security/Тесты контроллеров с security.md",
+    "ЦФТ",
+    "Мяу",
+    "spring/DTO/MapStruct.md",
+    "RabbitMq/Быстрый старт RabbitMq.md",
+    "spring/Security",
+    "kafka/Docker контейнер с Kafka.md",
+    "RabbitMq",
+    "kafka/Пример приложения с кафкой.md",
+    "kafka/Kafka Start.md",
+    "kafka/Работа со спрингом.md",
+    "kafka/установка кафки.md",
+    "spring/Controller",
+    "spring/DTO",
+    "Untitled.canvas",
     "New Microsoft Word Document.docx",
-    "docker/DockerFile.md",
-    "docker/docker-compose.md",
-    "docker/Базовые команды Docker.md",
-    "sql/Миграция БД с Flyway.md",
-    "spring/ResponseEntity.md",
-    "spring/DTO.md",
     "spring/DTO",
     "Untitled",
-    "spring",
-    "docker",
-    "kafka/установка кафки.md",
-    "kafka/kafka.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "images/Pasted image 20240506160542.png",
-    "kafka",
-    "2024-05-05.md",
-    "images/Pasted image 20240506155736.png",
-    "images/Pasted image 20240506155438.png",
-    "images/Pasted image 20240506155351.png",
-    "sql",
-    "images/Pasted image 20240505160104.png",
-    "images/Pasted image 20240505145422.png",
-    "images/Pasted image 20240505155946.png",
-    "images/Pasted image 20240505155918.png",
-    "kafka.bat",
-    "images/Pasted image 20240505155359.png",
-    "images/Pasted image 20240505155206.png",
-    "images"
+    "Untitled 1.canvas"
   ]
 }
